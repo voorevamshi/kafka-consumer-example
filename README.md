@@ -6,14 +6,14 @@ It is compiled from multiple discussion points for easy reference.
 ---
 
 ## 📑 Table of Contents
-1. [Consumer Behavior & Logs](#1-consumer-behaviour-logs)
+1. [Consumer Behavior Logs](#1-consumer-behavior-logs)
 2. [Common Kafka Errors](#2-common-kafka-errors)
-3. [Consumer application Log execution flow)](#3-consumer-application-execution-log-flow)
+3. [Consumer application Log execution flow](#3-consumer-application-log-execution-flow)
 4. [Back to Top](#-back-to-top)
 
 ---
 
-## 1. Consumer Behavior & Logs
+## 1. Consumer Behavior Logs
 Below are typical Kafka **consumer-related logs** and their meaning:
 
 - **Consumer group rebalancing started**  
